@@ -43,3 +43,15 @@
 <Training 및 Validation>
  - Epoch 변경해 가며 반복
  - 제출 Data 예측
+ 
+ # 사용데이터
+   - friends_dev.json
+   - friends_test.json
+   - friends_train.json
+   - en_data.csv
+  # 실행 진행 과정
+   - soogonKIM_2019516010_friends.ipynb을 구글 colab에서 GPU 사용해 실행하였고
+   - 총 3Epoch 를 실행해서 Epoch 당 12분 정도 소요 되었으며
+   - Test accuracy는 62.5% 정도가 나왔습니다.
+   - 상기 사용데이터 불러와 예측을 수행 하였습니다.
+ 
