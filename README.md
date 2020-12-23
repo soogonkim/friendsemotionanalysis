@@ -1,6 +1,7 @@
 # friendsemotionanalysis
 
-#  <프로젝트 목적>
+
+<프로젝트 목적>
  - 2020 년 가을학기 임희석 교수님 수업(디지털 금융공학 위한 자연언어처리기술)의
    시트콤 Friends(영문대사) 감정 분석 모델 구축
 
@@ -10,8 +11,6 @@
 - 공개 된 코드분석 및 수정을 통해 주석을 달아 감정분석기 모델 이해도 증진 및 <br>
   감정분석 평가율 제고를 위해 노력했습니다.
   
- - Google Drive colab /content/gdrive/ 연결
- - 암호 입력 및 인증
  - transformer 모델 설치
  
  <경로 및 max_len 설정>
@@ -22,7 +21,6 @@
 <데이터 불러오기>
 학습Data Type Dictionary형으로 정의
 
-train / dev / test 7 2 1 비율 정도로 분리하는 것이 일반적 이지만,
 -Data 확대를 위해 train+dev+test 전체 활용
 
 Bert 이용 위한 전처리
