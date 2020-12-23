@@ -11,7 +11,8 @@
 - 공개 된 코드분석 및 수정을 통해 주석을 달아 감정분석기 모델 이해도 증진 및 <br>
   감정분석 평가율 제고를 위해 노력했습니다.
   
- - transformer 모델 설치
+ <이용 모델>
+ - transformer - RoBERTa Model
  
  <경로 및 max_len 설정>
  - Test Data 로서 en_data 파일 사용
@@ -19,7 +20,7 @@
  - utterance max 값 80으로 설정
 
 <데이터 불러오기>
-학습Data Type Dictionary형으로 정의
+학습 Data Type Dictionary형으로 정의
 
 -Data 확대를 위해 train+dev+test 전체 활용
 
