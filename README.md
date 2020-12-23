@@ -5,7 +5,7 @@
  - 2020 년 가을학기 임희석 교수님 수업(디지털 금융공학 위한 자연언어처리기술)의
    시트콤 Friends(영문대사) 감정 분석 모델 구축
 
-- Dain Lee가 공개한 Source Code 참조
+- 기 공개된 Source Code를 참조
   - https://github.com/ailohc/friends-classification
 
 - 공개 된 코드분석 및 수정을 통해 주석을 달아 감정분석기 모델 이해도 증진 및 <br>
