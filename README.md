@@ -50,7 +50,7 @@
    - friends_train.json
    - en_data.csv
   # 실행 진행 과정
-   - soogonKIM_2019516010_friends.ipynb을 구글 colab에서 GPU 사용해 실행하였고
+   - soogonKIM_2019516010_friends.ipynb을 구글 colab에서 GPU를 사용해 실행하였고
    - 총 3Epoch 를 실행해서 Epoch 당 12분 정도 소요 되었으며
      (Epoch 를 3~6회 정도로 조정해 수행해 보았으나, 큰 개선은 없어 3Epoch로 최종결과물을 도출 하였습니다)
    - Test accuracy는 62.5% ~ 64.5% 정도가 나왔습니다.
